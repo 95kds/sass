@@ -3,12 +3,12 @@
 ## TIP
 
 
-
+         
 ### 번들링 모드
 production : 제품 모드   
 development : 개발 모드 (디버깅 가능)    
 
-
+         
 ### 확장과 인자가 없는 믹스인의 사용
 연관성있는 특성을 묶을때만 확장을 사용   
 연관성없는 선택자(단순히 동일한 코드의 반복)를 확장 시킬 경우   
@@ -40,7 +40,7 @@ mixin의 경우 연관없는 확장 선택자 모음이 만들어 지지 않으�
 ## MY MODULE
 
 
-
+         
 ### 가변 이미지 제작 mixin
 
 #### math : sass module 
@@ -77,7 +77,7 @@ background-image : urls($image-url,'img');
 ```
 
 
-
+         
 ### vw 계산기 function (multiple)
 
 
